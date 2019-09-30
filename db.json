@@ -24,6 +24,9 @@
       "Currency":"$",
       "area":"398-1,816 sqft",
       "location":"515 W 52nd St",
+      "coordinate":[50,50],
+      "bed":2,
+      "bathRoom":1,
       "tags": [
         "single room",
         "flat",
@@ -41,7 +44,10 @@
       "payType":"Monthly",
       "Currency":"$",
       "area":"483-2,827 sqft",
-      "location":"1 MOrningside Dr",
+      "location":"1 Morningside Dr",
+      "coordinate":[50,50],
+      "bed":2,
+      "bathRoom":2,
       "tags": [
         "single room",
         "flat",
@@ -60,6 +66,9 @@
       "Currency":"$",
       "area":"412-1,157 sqft",
       "location":"250 W 50th St",
+      "coordinate":[50,50],
+      "bed":2,
+      "bathRoom":1,
       "tags": [
         "single room",
         "flat",
@@ -78,6 +87,9 @@
       "Currency":"$",
       "area":"399-1,513 sqft",
       "location":"214 Duffield St",
+      "coordinate":[50,50],
+      "bed":1,
+      "bathRoom":1,
       "tags": [
         "flat",
         "flats",
@@ -97,6 +109,9 @@
       "Currency":"$",
       "area":"453-1,468 sqft",
       "location":"282 11th Ave",
+      "coordinate":[50,50],
+      "bed":3,
+      "bathRoom":2,
       "tags": [
         "single room",
         "flat",
