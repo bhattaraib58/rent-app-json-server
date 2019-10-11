@@ -1,7 +1,7 @@
 {
-  "name": "json-server-heroku",
-  "version": "1.0.0",
-  "description": "Simple json-base database to deploy to Heroku",
+  "name": "rent-app-json-server",
+  "version": "2.0.1",
+  "description": "Simple json-based database to deploy to Heroku, to provide json data ",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -13,6 +13,9 @@
   "author": "Jesper Orb",
   "license": "ISC",
   "dependencies": {
-    "json-server": "^0.12.1"
+    "json-server": "^0.15.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.3"
   }
 }
