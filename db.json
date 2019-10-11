@@ -1,30 +1,12 @@
 {
-  "posts": [
-    {
-      "id": 0,
-      "title": "First post!",
-      "content": "My first content!"
-    }
-  ],
-  "comments": [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
-  ],
-  "flats": [
+  "trendingFlats": [
     {
       "id": 0,
       "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce mattis massa eu magna pharetra tincidunt. Maecenas nec odio id felis euismod faucibus sit amet at est. Cras purus mauris, pulvinar at sollicitudin imperdiet, cursus quis ligula. Sed ac rhoncus ante, malesuada pretium risus. Nam orci purus, dictum sit amet lacus vitae, sollicitudin mollis ipsum. Pellentesque ut convallis augue. Aenean imperdiet ipsum quis ligula blandit semper. Mauris ac aliquet nisl. Donec sed turpis dui. Integer id fringilla nibh, non finibus odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi feugiat lectus iaculis hendrerit blandit. Nulla porta vitae urna eget sodales. Cras sit amet mattis enim.",
       "images": [
         "https://www.rightmove.co.uk/news/content/uploads/2018/03/61682_3995232_IMG_01_0000.jpg",
         "https://q-cf.bstatic.com/images/hotel/max1024x768/113/113222638.jpg",
-        "https://cdn.mbl.is/frimg/9/48/948607.jpg",
-        "https://live.staticflickr.com/4175/33942512090_3a6a2a50eb_b.jpg",
-        "https://live.staticflickr.com/2853/33484696864_5b853b686d_b.jpg",
-        "https://theculturetrip.com/wp-content/uploads/2017/09/34326437725_1ea4aaf8cc_b.jpg",
-        "https://live.staticflickr.com/4175/33942512090_3a6a2a50eb_b.jpg"
+        "https://cdn.mbl.is/frimg/9/48/948607.jpg"
       ],
       "priceMin": 3245,
       "priceMax": 4516,
@@ -54,12 +36,7 @@
       "info": "Maecenas interdum neque quis turpis tristique pulvinar. In vel viverra nibh. Nam eget mi eget ligula vulputate commodo quis et lorem. Morbi quis augue nunc. Praesent lacinia mollis magna, non tempor nisl vehicula vitae. In ultrices magna ac lectus varius, quis bibendum ante sagittis. Nunc scelerisque, leo ac accumsan ultrices, tellus leo aliquet ligula, vitae tincidunt augue tortor quis ligula.",
       "images": [
         "https://www.rightmove.co.uk/news/wp-content/uploads/2018/02/61682_3995232_IMG_03_0000.jpg",
-        "https://q-cf.bstatic.com/images/hotel/max1024x768/113/113222638.jpg",
-        "https://cdn.mbl.is/frimg/9/48/948607.jpg",
-        "https://live.staticflickr.com/4175/33942512090_3a6a2a50eb_b.jpg",
-        "https://live.staticflickr.com/2853/33484696864_5b853b686d_b.jpg",
-        "https://theculturetrip.com/wp-content/uploads/2017/09/34326437725_1ea4aaf8cc_b.jpg",
-        "https://live.staticflickr.com/4175/33942512090_3a6a2a50eb_b.jpg"
+        "https://q-cf.bstatic.com/images/hotel/max1024x768/113/113222638.jpg"
       ],
       "priceMin": 4585,
       "priceMax": 6906,
@@ -91,9 +68,6 @@
         "https://d2wm8cz8zdka42.cloudfront.net/hcma/149596_1.jpg",
         "https://q-cf.bstatic.com/images/hotel/max1024x768/113/113222638.jpg",
         "https://cdn.mbl.is/frimg/9/48/948607.jpg",
-        "https://live.staticflickr.com/4175/33942512090_3a6a2a50eb_b.jpg",
-        "https://live.staticflickr.com/2853/33484696864_5b853b686d_b.jpg",
-        "https://theculturetrip.com/wp-content/uploads/2017/09/34326437725_1ea4aaf8cc_b.jpg",
         "https://live.staticflickr.com/4175/33942512090_3a6a2a50eb_b.jpg"
       ],
       "priceMin": 3309,
@@ -127,9 +101,7 @@
         "https://q-cf.bstatic.com/images/hotel/max1024x768/113/113222638.jpg",
         "https://cdn.mbl.is/frimg/9/48/948607.jpg",
         "https://live.staticflickr.com/4175/33942512090_3a6a2a50eb_b.jpg",
-        "https://live.staticflickr.com/2853/33484696864_5b853b686d_b.jpg",
-        "https://theculturetrip.com/wp-content/uploads/2017/09/34326437725_1ea4aaf8cc_b.jpg",
-        "https://live.staticflickr.com/4175/33942512090_3a6a2a50eb_b.jpg"
+        "https://live.staticflickr.com/2853/33484696864_5b853b686d_b.jpg"
       ],
       "priceMin": 3167,
       "priceMax": 5907,
@@ -190,5 +162,37 @@
         "flat with sofa"
       ]
     }
-  ]
+  ],
+  "bestPicks": [
+    {
+      "id": 0,
+      "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce mattis massa eu magna pharetra tincidunt. Maecenas nec odio id felis euismod faucibus sit amet at est. Cras purus mauris, pulvinar at sollicitudin imperdiet, cursus quis ligula. Sed ac rhoncus ante, malesuada pretium risus. Nam orci purus, dictum sit amet lacus vitae, sollicitudin mollis ipsum. Pellentesque ut convallis augue. Aenean imperdiet ipsum quis ligula blandit semper. Mauris ac aliquet nisl. Donec sed turpis dui. Integer id fringilla nibh, non finibus odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi feugiat lectus iaculis hendrerit blandit. Nulla porta vitae urna eget sodales. Cras sit amet mattis enim.",
+      "images": [
+        "https://www.rightmove.co.uk/news/content/uploads/2018/03/61682_3995232_IMG_01_0000.jpg",
+        "https://q-cf.bstatic.com/images/hotel/max1024x768/113/113222638.jpg",
+        "https://cdn.mbl.is/frimg/9/48/948607.jpg"
+      ],
+      "priceMin": 3245,
+      "priceMax": 4516,
+      "payType": "Monthly",
+      "Currency": "$",
+      "area": "398-1,816 sqft",
+      "location": "515 W 52nd St",
+      "coordinate": [
+        27.7172,
+        85.3240
+      ],
+      "transport": 4.5,
+      "safety": 4.8,
+      "ecology": 4.1,
+      "bed": 2,
+      "bathRoom": 1,
+      "tags": [
+        "single room",
+        "flat",
+        "flats",
+        "house with tv",
+        "flat with sofa"
+      ]
+    },
 }
