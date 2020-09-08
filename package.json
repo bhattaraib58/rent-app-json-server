@@ -2,7 +2,7 @@
   "author": "Biplap Bhattarai",
   "license": "ISC",
   "name": "rent-app-json-server",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Simple json-based database to deploy to Heroku, to provide json data ",
   "main": "server.js",
   "keywords": [
@@ -16,6 +16,6 @@
     "json-server": "^0.16.1"
   },
   "devDependencies": {
-    "nodemon": "^2.0.2"
+    "nodemon": "^2.0.4"
   }
 }
